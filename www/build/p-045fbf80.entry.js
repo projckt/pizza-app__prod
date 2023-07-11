@@ -1,0 +1,1 @@
+import{r,h as l,H as s}from"./p-76bbd7fc.js";let a=class{constructor(l){r(this,l)}render(){return l(s,null,l("slot",null))}};a.style=":host{display:flex;flex-wrap:wrap;row-gap:2em;column-gap:2em}";export{a as p_gallery}

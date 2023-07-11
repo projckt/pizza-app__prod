@@ -1,0 +1,1 @@
+import{r as s,h as r,H as l}from"./p-76bbd7fc.js";let t=class{constructor(r){s(this,r)}render(){return r(l,null,r("slot",null))}};t.style=":host{display:block}";export{t as c_sidebar}
